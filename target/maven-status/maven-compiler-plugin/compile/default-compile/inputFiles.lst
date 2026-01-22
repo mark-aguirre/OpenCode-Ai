@@ -1,0 +1,14 @@
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\shared\dto\BasePageRequest.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\shared\exception\ResourceNotFoundException.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\modules\product\domain\Product.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\modules\product\dto\ProductCreateRequest.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\modules\product\domain\ProductCategory.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\shared\exception\InvalidRequestException.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\modules\product\ProductModule.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\shared\exception\DuplicateResourceException.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\modules\product\controller\ProductController.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\ProductApplication.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\modules\product\service\ProductService.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\modules\product\service\ProductServiceImpl.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\shared\dto\BaseResponse.java
+C:\Code_Area\Personal\Ai\OpenCode\product-crud-app\src\main\java\com\company\productapp\modules\product\repository\ProductRepository.java

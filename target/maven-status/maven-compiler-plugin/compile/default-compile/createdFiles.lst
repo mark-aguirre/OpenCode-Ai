@@ -1,0 +1,15 @@
+com\company\productapp\shared\dto\BasePageRequest.class
+com\company\productapp\modules\product\domain\Product.class
+com\company\productapp\modules\product\domain\ProductCategory.class
+com\company\productapp\modules\product\domain\Product$ProductBuilder.class
+com\company\productapp\modules\product\service\ProductService.class
+com\company\productapp\shared\exception\DuplicateResourceException.class
+com\company\productapp\modules\product\ProductModule.class
+com\company\productapp\modules\product\repository\ProductRepository.class
+com\company\productapp\modules\product\service\ProductServiceImpl.class
+com\company\productapp\shared\exception\ResourceNotFoundException.class
+com\company\productapp\shared\dto\BaseResponse.class
+com\company\productapp\shared\exception\InvalidRequestException.class
+com\company\productapp\modules\product\controller\ProductController.class
+com\company\productapp\modules\product\dto\ProductCreateRequest.class
+com\company\productapp\ProductApplication.class
